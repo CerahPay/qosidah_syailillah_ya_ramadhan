@@ -38,15 +38,15 @@ body::after {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    border: 3px solid #ff69b4;
+    border: 3px solid #008000;
     margin-bottom: 15px;
-    box-shadow: 0 0 20px rgba(255,105,180,0.3);
+    box-shadow: 0 0 20px rgba(0,128,0);
 }
 
 .header-text {
-    color: #ff69b4;
+    color: #008000;
     font-size: 2.2em;
-    text-shadow: 0 0 10px rgba(255,105,180,0.3);
+    text-shadow: 0 0 10px rgba(0,128,0);
 }
 
 .japanese-text {
